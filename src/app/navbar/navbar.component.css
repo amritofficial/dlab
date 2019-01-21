@@ -132,6 +132,16 @@
   border-color: #138c9e;
 }
 
+.btn-navbar-signin:visited {
+  background-color: #138c9e;
+  border-color: #138c9e;
+}
+
+.btn-navbar-signin:active {
+  background-color: #138c9e;
+  border-color: #138c9e;
+}
+
 .btn-navbar-register {
   background-color: #07BEB8;
   border-color: #07BEB8;
@@ -141,5 +151,9 @@
 .btn-navbar-register:hover {
   background-color: rgb(8, 158, 153);
   border-color: rgb(8, 158, 153);
-  border-radius: 20px;
+}
+
+.btn-navbar-register:active {
+  background-color: rgb(8, 158, 153);
+  border-color: rgb(8, 158, 153);
 }
