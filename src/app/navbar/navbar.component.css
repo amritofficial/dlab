@@ -127,17 +127,7 @@
   border-radius: 20px;
 }
 
-.btn-navbar-signin:hover {
-  background-color: #138c9e;
-  border-color: #138c9e;
-}
-
-.btn-navbar-signin:visited {
-  background-color: #138c9e;
-  border-color: #138c9e;
-}
-
-.btn-navbar-signin:active {
+.btn-navbar-signin:hover, .btn-navbar-signin:active {
   background-color: #138c9e;
   border-color: #138c9e;
 }
@@ -148,12 +138,7 @@
   border-radius: 20px;
 }
 
-.btn-navbar-register:hover {
-  background-color: rgb(8, 158, 153);
-  border-color: rgb(8, 158, 153);
-}
-
-.btn-navbar-register:active {
+.btn-navbar-register:hover, .btn-navbar-register:active {
   background-color: rgb(8, 158, 153);
   border-color: rgb(8, 158, 153);
 }
